@@ -1,15 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=F%C3%A1bio+Freitas+-+%40fabiofreitasbr)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/fabiofreitasbr/fabiofreitasbr/output/snake.svg" alt="Snake animation" />
 
-###
+<img src="https://raw.githubusercontent.com/fabiofreitasbr/fabiofreitasbr/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabiofreitasbr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiofreitasbr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 ![Fábio Freitas](https://github-readme-stats.vercel.app/api?username=fabiofreitasbr&theme=github_dark_dimmed&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabiofreitasbr&theme=react&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
