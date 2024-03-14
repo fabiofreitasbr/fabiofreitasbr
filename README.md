@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=F%C3%A1bio+Freitas+-+%40fabiofreitasbr)](https://git.io/typing-svg)
 
 
-<img src="https://raw.githubusercontent.com/fabiofreitasbr/fabiofreitasbr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fabiofreitasbr/fabiofreitasbr/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 
 ![Fábio Freitas](https://github-readme-stats.vercel.app/api?username=fabiofreitasbr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false&order=1)
